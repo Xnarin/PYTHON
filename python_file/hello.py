@@ -1,2 +1,3 @@
-print('Hello, world!')
-print('This is a simple Python script.')
+n = input()
+n = int(n)
+print(n)
